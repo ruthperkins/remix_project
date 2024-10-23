@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+<map> 
   <title>Charlie and the Chocolate Factory</title>
   <topicref href="index.dita"/>
   <topicref href="chapter_1.dita"/>
+  <topicref href="chapter_2.dita"/>
+  <topicref href="chapter_3.dita"/>
+  <topicref href="chapter_4.dita"/>
+  <topicref href="chapter_5.dita"/>
+  <topicref href="chapter_6.dita"/>
+  <topicref href="chapter_7.dita"/>
+  <topicref href="chapter_8.dita"/>
+  <topicref href="chapter_9.dita"/>
 </map>
