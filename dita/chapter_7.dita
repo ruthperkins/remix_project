@@ -5,14 +5,11 @@
     <body>
         <section id="section_o3n_p1m_ddc">
             <title>Violet Beauregarde</title>
-            <p>Violet Beauregarde is the third child to meet her demise. </p>
-            <p>Violet Beauregarde is the third child to get separated from the group.</p>
-            <p>She sees an experimental piece of bubblegum and determined to be the best, grabs it,
-                despite being warned not to, and chews it. She quickly turns into a giant blueberry. </p>
-            <p>After turning into a giant blueberry, she is rolled into another room where she
-                explodes. Her pride caused her death. </p>
-            <p>After turning into a giant blueberry, she is rolled into another room where she is
-                safely deflated. She will return to the group later.</p>
+            <p audience="adult">Violet Beauregarde is the third child to meet her demise. </p>
+            <p audience="children">Violet Beauregarde is the third child to get separated from the group.</p>
+            <p>She sees an experimental piece of bubblegum and determined to be the best, grabs it, despite being warned not to, and chews it. She quickly turns into a giant blueberry. </p>
+            <p audience="adult">After turning into a giant blueberry, she is rolled into another room where she explodes. Her pride caused her death. </p>
+            <p audience="children">After turning into a giant blueberry, she is rolled into another room where she is safely deflated. She will return to the group later.</p>
         </section>
     </body>
 </topic>
