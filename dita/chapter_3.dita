@@ -11,36 +11,47 @@
         <section id="section_z14_cwl_ddc">
             <title>Augustus Gloop</title>
             <p>The first child to find a golden ticket was Augustus Gloop. </p>
-            <p audience="adult" >He is a heavyset child who spends most of his time eating gluttonously. </p>
-            <p audience="children" >He is a kid who loves eating candy. </p>
+            <p audience="adult">He is a heavyset child who spends most of his time eating
+                gluttonously. </p>
+            <p audience="children">He is a kid who loves eating candy. </p>
             <p>Because he eats so much candy, he was able to find the first golden ticket quickly.
             </p>
         </section>
+        <image href="images/augustus_golden_ticket_image.jpg" id="image_mqp_ygv_ddc"
+            alt="A young boy holding a golden ticket with his mom."/>
         <section id="section_ox2_dwl_ddc">
             <title>Veruca Salt</title>
             <p>The second child to find a golden ticket was Veruca Salt. </p>
-            <p audience="adult" >She is an insufferable, spoiled brat. She demands materialistic goods from her father
-                including the golden ticket.</p>
-            <p audience="children" >She is a kid who loves toys. She loves toys and gifts from her father. </p>
+            <p audience="adult">She is an insufferable, spoiled brat. She demands materialistic
+                goods from her father including the golden ticket.</p>
+            <p audience="children">She is a kid who loves toys. She loves toys and gifts from her
+                father. </p>
             <p>He enlists his entire factory to spend their time unwrapping chocolate bars until it
                 was found. </p>
         </section>
+        <image href="images/veruca_golden_ticket_image.jpg" id="image_odh_2hv_ddc"
+            alt="A young girl holding a golden ticket with her parents."/>
         <section id="section_u1k_2wl_ddc">
             <title>Violet Beauregarde</title>
             <p>The third child to find a golden ticket was Violet Beauregarde. </p>
-            <p audience="adult" >She is a child full of pride and consumed with winning by setting a world record in
-                chewing gum. </p>
-            <p audience="children" >She is a kid who competes a lot trying to set a world record in chewing gum.</p>
+            <p audience="adult">She is a child full of pride and consumed with winning by setting a
+                world record in chewing gum. </p>
+            <p audience="children">She is a kid who competes a lot trying to set a world record in
+                chewing gum.</p>
             <p>She takes a short break to find the ticket, then immediately returns to her world
                 record attempt. </p>
         </section>
+        <image href="images/violet_golden_ticket_image.jpg" id="image_v5s_1jp_2dc"
+            alt="A young girl smiling holding a golden ticket."/>
         <section id="section_oxf_fwl_ddc">
             <title>Mike Teavee</title>
             <p>The fourth child to find a golden ticket is Mike Teavee. </p>
-            <p audience="adult" >He is a child who is lazy and only cares about watching television. </p>
-            <p audience="children" >He is a kid who watches a lot of television.</p>
+            <p audience="adult">He is a child who is lazy and only cares about watching television. </p>
+            <p audience="children">He is a kid who watches a lot of television.</p>
             <p>He finds the ticket but doesn’t even care to respond to reporters because he would
                 rather watch his shows. </p>
         </section>
+        <image href="images/mike_golden_ticket_image.jpg" id="image_st2_djp_2dc"
+            alt="A young boy with an angry expression playing video games."/>
     </body>
 </topic>

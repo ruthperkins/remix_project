@@ -3,13 +3,17 @@
 <topic id="topic_jgr_nnd_ddc">
     <title>Chapter 8</title>
     <body>
-        <section id="section_dgb_1bm_ddc">
-            <title>Mike Teavee</title>
-            <p audience="adult">Mike Teavee is the fourth child to meet his demise. </p>
-            <p audience="children">Mike Teavee is the fourth child to get separated from the group.</p>
-            <p>After finally finding a television in the factory, this is all he can focus on. However, his hopes of getting on television do not turn out quite as expected as he is shrunk to fit inside a small television. </p>
-            <p audience="adult">After being shrunk, he is left in the television, as that is all he cared about. His laziness caused his death. </p>
-            <p audience="children">After being shrunk, he is safely removed from the television and his father carries him in his breast pocket.</p>
-        </section>
+        <section id="section_dgb_1bm_ddc"><title>Mike Teavee</title><p audience="adult">Mike Teavee
+                is the fourth child to meet his demise. </p><p audience="children">Mike Teavee is
+                the fourth child to get separated from the group.</p><p>After finally finding a
+                television in the factory, this is all he can focus on. However, his hopes of
+                getting on television do not turn out quite as expected as he is shrunk to fit
+                inside a small television. </p><image href="images/mike_shrunk_image.jpg"
+                id="image_b3n_blp_2dc"
+                alt="Two men looking at the young boy shrunk held in one man's hand."/><p
+                audience="adult">After being shrunk, he is left in the television, as that is all he
+                cared about. His laziness caused his death. </p><p audience="children">After being
+                shrunk, he is safely removed from the television and his father carries him in his
+                breast pocket.</p></section>
     </body>
 </topic>

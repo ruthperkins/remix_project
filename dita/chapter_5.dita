@@ -3,13 +3,15 @@
 <topic id="topic_jgr_nnd_ddc">
     <title>Chapter 5</title>
     <body>
-        <section id="section_ecn_yzl_ddc">
-            <title>Augustus Gloop</title>
-            <p audience="adult" >Augustus Gloop is the first child to meet his demise. </p>
-            <p audience="children" >Augustus Gloop is the first child to get separated from the group.</p>
-            <p>He is captivated by the chocolate river and unable to resist so he falls into the river while trying to drink it. He is quickly sucked up by one of the pipes and transported to another room. </p>
-            <p audience="adult" >In this other room, he is chopped into bits and made into fudge. His gluttony caused his death. </p>
-            <p audience="children" >He is safely removed from the pipe and stays in the other room to recover. He will return to the group later.</p>
-        </section>
+        <section id="section_ecn_yzl_ddc"><title>Augustus Gloop</title><p audience="adult">Augustus
+                Gloop is the first child to meet his demise. </p><p audience="children">Augustus
+                Gloop is the first child to get separated from the group.</p><p>He is captivated by
+                the chocolate river and unable to resist so he falls into the river while trying to
+                drink it. He is quickly sucked up by one of the pipes and transported to another
+                room. </p><image href="images/augustus_gloop_river_image.jpg" id="image_s1p_kkp_2dc"
+                alt="A young boy fallen into a chocolate river."/><p audience="adult">In this other
+                room, he is chopped into bits and made into fudge. His gluttony caused his death.
+                </p><p audience="children">He is safely removed from the pipe and stays in the other
+                room to recover. He will return to the group later.</p></section>
     </body>
 </topic>
