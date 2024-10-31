@@ -7,14 +7,17 @@
             <title>The Infamous Willy Wonka and His Chocolate Factory</title>
         </section>
         <p>The next day is the day everyone is invited to tour Wonka’s chocolate factory. </p>
-        <p>Charlie arrives with his Grandpa Joe, who springs out of bed for the first time in
-            decades. </p>
-        <p>They arrive at the factory gates and are greeted by Mr. Willy Wonka himself. </p>
-        <image href="images/arrive_outside_factory_image.jpg" id="image_rz3_dkp_2dc"
-            alt="Five children standing with one parent each at the gates of the factory."/>
+        <p>Charlie's parents are unable to go with him so arrives with his Grandpa Joe, who springs
+            out of bed for the first time in decades! </p>
+        <p>They arrive at the factory gates and are greeted by Mr. Willy Wonka himself and all his
+            quirkiness. </p>
+        <image href="images/meet_wonka_outside_factory_image.jpg" id="image_ofl_pcr_fdc"
+            alt="A man with arms stretched out standing in front of a factory."/>
         <p>Grandpa Joe and Charlie begin to meet the other children and parents but don’t seem to
             have much in common with them. </p>
         <p>They enter the factory and marvel at the unbelievable sights, sounds, and smells of the
             unexplainable candies that await them. </p>
+        <image href="images/arrive_at_factory_image.jpg" id="image_stm_4cr_fdc"
+            alt="A man leading a group of adults and children through a room made out of candy."/>
     </body>
 </topic>
