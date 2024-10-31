@@ -3,13 +3,16 @@
 <topic id="topic_jgr_nnd_ddc">
     <title>Chapter 9</title>
     <body>
-        <section id="section_b1z_lbm_ddc">
-            <title>The Surprise Winner</title>
-            <p audience="children">After all the other children have gotten separated, Charlie is the only one left. </p>
-            <p audience="adult">After all the other children have died, Charlie is the only one left.</p>
-            <p>Willy Wonka reveals that Charlie is now the winner! Willy Wonka was holding a secret contest for who would inherit his chocolate factory. </p>
-            <p>Charlie and Grandpa Joe are so happy! They, along with Willy Wonka, travel through the glass elevator and crash through the roof of Charlie’s house where they celebrate with the whole family. </p>
-            <p>The End!</p>
-        </section>
+        <section id="section_b1z_lbm_ddc"><title>The Surprise Winner</title><p audience="children"
+                >After all the other children have gotten separated, Charlie is the only one left.
+                </p><p audience="adult">After all the other children have died, Charlie is the only
+                one left.</p><p>Willy Wonka reveals that Charlie is now the winner! Willy Wonka was
+                holding a secret contest for who would inherit his chocolate factory. </p><p>Charlie
+                and Grandpa Joe are so happy! They, along with Willy Wonka, travel through the glass
+                elevator and crash through the roof of Charlie’s house where they celebrate with the
+                whole family. </p><image href="images/glass_elevator_image.jpg"
+                id="image_cns_q1r_fdc"
+                alt="Two older men and a young boy standing in a glass elevator."/><p>The
+            End!</p></section>
     </body>
 </topic>
